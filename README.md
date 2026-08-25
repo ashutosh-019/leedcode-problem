@@ -20,4 +20,16 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ashutosh-019/leedcode-problem/tree/master/0009-palindrome-number) |
+## String
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/ashutosh-019/leedcode-problem/tree/master/2390-removing-stars-from-a-string) |
+## Stack
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/ashutosh-019/leedcode-problem/tree/master/2390-removing-stars-from-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/ashutosh-019/leedcode-problem/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
