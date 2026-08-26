@@ -6,16 +6,19 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ashutosh-019/leedcode-problem/tree/master/0001-two-sum) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ashutosh-019/leedcode-problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1929-concatenation-of-array](https://github.com/ashutosh-019/leedcode-problem/tree/master/1929-concatenation-of-array) |
 | [3731-find-missing-elements](https://github.com/ashutosh-019/leedcode-problem/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ashutosh-019/leedcode-problem/tree/master/0001-two-sum) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ashutosh-019/leedcode-problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3731-find-missing-elements](https://github.com/ashutosh-019/leedcode-problem/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ashutosh-019/leedcode-problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3731-find-missing-elements](https://github.com/ashutosh-019/leedcode-problem/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -41,4 +44,8 @@
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ashutosh-019/leedcode-problem/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ashutosh-019/leedcode-problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
