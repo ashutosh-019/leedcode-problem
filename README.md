@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ashutosh-019/leedcode-problem/tree/master/0001-two-sum) |
+| [0771-jewels-and-stones](https://github.com/ashutosh-019/leedcode-problem/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ashutosh-019/leedcode-problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3731-find-missing-elements](https://github.com/ashutosh-019/leedcode-problem/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -33,6 +34,7 @@
 ## String
 |  |
 | ------- |
+| [0771-jewels-and-stones](https://github.com/ashutosh-019/leedcode-problem/tree/master/0771-jewels-and-stones) |
 | [2390-removing-stars-from-a-string](https://github.com/ashutosh-019/leedcode-problem/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
