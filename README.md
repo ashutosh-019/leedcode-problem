@@ -28,6 +28,7 @@
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ashutosh-019/leedcode-problem/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ashutosh-019/leedcode-problem/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1952-three-divisors](https://github.com/ashutosh-019/leedcode-problem/tree/master/1952-three-divisors) |
+| [2413-smallest-even-multiple](https://github.com/ashutosh-019/leedcode-problem/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/ashutosh-019/leedcode-problem/tree/master/2469-convert-the-temperature) |
 ## String
 |  |
@@ -75,6 +76,7 @@
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/ashutosh-019/leedcode-problem/tree/master/1952-three-divisors) |
+| [2413-smallest-even-multiple](https://github.com/ashutosh-019/leedcode-problem/tree/master/2413-smallest-even-multiple) |
 ## Prime Factorization
 |  |
 | ------- |
