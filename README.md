@@ -11,6 +11,7 @@
 | [1929-concatenation-of-array](https://github.com/ashutosh-019/leedcode-problem/tree/master/1929-concatenation-of-array) |
 | [3731-find-missing-elements](https://github.com/ashutosh-019/leedcode-problem/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/ashutosh-019/leedcode-problem/tree/master/3745-maximize-expression-of-three-elements) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/ashutosh-019/leedcode-problem/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
 | ------- |
@@ -94,4 +95,12 @@
 |  |
 | ------- |
 | [3745-maximize-expression-of-three-elements](https://github.com/ashutosh-019/leedcode-problem/tree/master/3745-maximize-expression-of-three-elements) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/ashutosh-019/leedcode-problem/tree/master/3898-find-the-degree-of-each-vertex) |
+## Matrix
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/ashutosh-019/leedcode-problem/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
