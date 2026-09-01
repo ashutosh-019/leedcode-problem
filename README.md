@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ashutosh-019/leedcode-problem/tree/master/0001-two-sum) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ashutosh-019/leedcode-problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ashutosh-019/leedcode-problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1472-design-browser-history](https://github.com/ashutosh-019/leedcode-problem/tree/master/1472-design-browser-history) |
 | [1929-concatenation-of-array](https://github.com/ashutosh-019/leedcode-problem/tree/master/1929-concatenation-of-array) |
 | [3731-find-missing-elements](https://github.com/ashutosh-019/leedcode-problem/tree/master/3731-find-missing-elements) |
@@ -23,6 +24,7 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ashutosh-019/leedcode-problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ashutosh-019/leedcode-problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3731-find-missing-elements](https://github.com/ashutosh-019/leedcode-problem/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/ashutosh-019/leedcode-problem/tree/master/3745-maximize-expression-of-three-elements) |
 ## Math
@@ -103,4 +105,8 @@
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/ashutosh-019/leedcode-problem/tree/master/3898-find-the-degree-of-each-vertex) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ashutosh-019/leedcode-problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
