@@ -12,6 +12,7 @@
 | [1929-concatenation-of-array](https://github.com/ashutosh-019/leedcode-problem/tree/master/1929-concatenation-of-array) |
 | [3731-find-missing-elements](https://github.com/ashutosh-019/leedcode-problem/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/ashutosh-019/leedcode-problem/tree/master/3745-maximize-expression-of-three-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ashutosh-019/leedcode-problem/tree/master/3875-construct-uniform-parity-array-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/ashutosh-019/leedcode-problem/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
@@ -36,6 +37,7 @@
 | [1952-three-divisors](https://github.com/ashutosh-019/leedcode-problem/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/ashutosh-019/leedcode-problem/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/ashutosh-019/leedcode-problem/tree/master/2469-convert-the-temperature) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ashutosh-019/leedcode-problem/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
 | ------- |
