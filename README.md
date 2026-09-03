@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ashutosh-019/leedcode-problem/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/ashutosh-019/leedcode-problem/tree/master/0231-power-of-two) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ashutosh-019/leedcode-problem/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ashutosh-019/leedcode-problem/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1952-three-divisors](https://github.com/ashutosh-019/leedcode-problem/tree/master/1952-three-divisors) |
@@ -56,6 +57,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/ashutosh-019/leedcode-problem/tree/master/0231-power-of-two) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ashutosh-019/leedcode-problem/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Counting Sort
 |  |
@@ -111,4 +113,8 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ashutosh-019/leedcode-problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/ashutosh-019/leedcode-problem/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
