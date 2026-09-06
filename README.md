@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ashutosh-019/leedcode-problem/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/ashutosh-019/leedcode-problem/tree/master/0066-plus-one) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ashutosh-019/leedcode-problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ashutosh-019/leedcode-problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1472-design-browser-history](https://github.com/ashutosh-019/leedcode-problem/tree/master/1472-design-browser-history) |
@@ -35,6 +36,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ashutosh-019/leedcode-problem/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/ashutosh-019/leedcode-problem/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/ashutosh-019/leedcode-problem/tree/master/0231-power-of-two) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ashutosh-019/leedcode-problem/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ashutosh-019/leedcode-problem/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
