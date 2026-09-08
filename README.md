@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/ashutosh-019/leedcode-problem/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/ashutosh-019/leedcode-problem/tree/master/0066-plus-one) |
 | [0238-product-of-array-except-self](https://github.com/ashutosh-019/leedcode-problem/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/ashutosh-019/leedcode-problem/tree/master/0724-find-pivot-index) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ashutosh-019/leedcode-problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ashutosh-019/leedcode-problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/ashutosh-019/leedcode-problem/tree/master/1470-shuffle-the-array) |
@@ -132,6 +133,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ashutosh-019/leedcode-problem/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/ashutosh-019/leedcode-problem/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/ashutosh-019/leedcode-problem/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/ashutosh-019/leedcode-problem/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/ashutosh-019/leedcode-problem/tree/master/2574-left-and-right-sum-differences) |
