@@ -44,6 +44,7 @@
 | [1952-three-divisors](https://github.com/ashutosh-019/leedcode-problem/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/ashutosh-019/leedcode-problem/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/ashutosh-019/leedcode-problem/tree/master/2469-convert-the-temperature) |
+| [3870-count-commas-in-range](https://github.com/ashutosh-019/leedcode-problem/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ashutosh-019/leedcode-problem/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
