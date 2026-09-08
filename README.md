@@ -10,6 +10,7 @@
 | [0238-product-of-array-except-self](https://github.com/ashutosh-019/leedcode-problem/tree/master/0238-product-of-array-except-self) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ashutosh-019/leedcode-problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ashutosh-019/leedcode-problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1470-shuffle-the-array](https://github.com/ashutosh-019/leedcode-problem/tree/master/1470-shuffle-the-array) |
 | [1472-design-browser-history](https://github.com/ashutosh-019/leedcode-problem/tree/master/1472-design-browser-history) |
 | [1929-concatenation-of-array](https://github.com/ashutosh-019/leedcode-problem/tree/master/1929-concatenation-of-array) |
 | [2540-minimum-common-value](https://github.com/ashutosh-019/leedcode-problem/tree/master/2540-minimum-common-value) |
