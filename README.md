@@ -45,6 +45,7 @@
 | [0009-palindrome-number](https://github.com/ashutosh-019/leedcode-problem/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/ashutosh-019/leedcode-problem/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/ashutosh-019/leedcode-problem/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/ashutosh-019/leedcode-problem/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ashutosh-019/leedcode-problem/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ashutosh-019/leedcode-problem/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1952-three-divisors](https://github.com/ashutosh-019/leedcode-problem/tree/master/1952-three-divisors) |
@@ -130,6 +131,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ashutosh-019/leedcode-problem/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/ashutosh-019/leedcode-problem/tree/master/0509-fibonacci-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -148,4 +150,12 @@
 |  |
 | ------- |
 | [2540-minimum-common-value](https://github.com/ashutosh-019/leedcode-problem/tree/master/2540-minimum-common-value) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ashutosh-019/leedcode-problem/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ashutosh-019/leedcode-problem/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
