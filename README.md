@@ -14,6 +14,7 @@
 | [1470-shuffle-the-array](https://github.com/ashutosh-019/leedcode-problem/tree/master/1470-shuffle-the-array) |
 | [1472-design-browser-history](https://github.com/ashutosh-019/leedcode-problem/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/ashutosh-019/leedcode-problem/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/ashutosh-019/leedcode-problem/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/ashutosh-019/leedcode-problem/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/ashutosh-019/leedcode-problem/tree/master/1991-find-the-middle-index-in-array) |
 | [2540-minimum-common-value](https://github.com/ashutosh-019/leedcode-problem/tree/master/2540-minimum-common-value) |
@@ -135,6 +136,7 @@
 | [0238-product-of-array-except-self](https://github.com/ashutosh-019/leedcode-problem/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/ashutosh-019/leedcode-problem/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/ashutosh-019/leedcode-problem/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/ashutosh-019/leedcode-problem/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/ashutosh-019/leedcode-problem/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/ashutosh-019/leedcode-problem/tree/master/2574-left-and-right-sum-differences) |
 | [3903-smallest-stable-index-i](https://github.com/ashutosh-019/leedcode-problem/tree/master/3903-smallest-stable-index-i) |
