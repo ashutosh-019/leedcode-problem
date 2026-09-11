@@ -14,6 +14,7 @@
 | [1470-shuffle-the-array](https://github.com/ashutosh-019/leedcode-problem/tree/master/1470-shuffle-the-array) |
 | [1472-design-browser-history](https://github.com/ashutosh-019/leedcode-problem/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/ashutosh-019/leedcode-problem/tree/master/1480-running-sum-of-1d-array) |
+| [1534-count-good-triplets](https://github.com/ashutosh-019/leedcode-problem/tree/master/1534-count-good-triplets) |
 | [1732-find-the-highest-altitude](https://github.com/ashutosh-019/leedcode-problem/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/ashutosh-019/leedcode-problem/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/ashutosh-019/leedcode-problem/tree/master/1991-find-the-middle-index-in-array) |
@@ -97,6 +98,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1534-count-good-triplets](https://github.com/ashutosh-019/leedcode-problem/tree/master/1534-count-good-triplets) |
 | [1952-three-divisors](https://github.com/ashutosh-019/leedcode-problem/tree/master/1952-three-divisors) |
 | [3745-maximize-expression-of-three-elements](https://github.com/ashutosh-019/leedcode-problem/tree/master/3745-maximize-expression-of-three-elements) |
 ## Number Theory
