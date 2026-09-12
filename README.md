@@ -60,6 +60,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ashutosh-019/leedcode-problem/tree/master/0020-valid-parentheses) |
 | [0771-jewels-and-stones](https://github.com/ashutosh-019/leedcode-problem/tree/master/0771-jewels-and-stones) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ashutosh-019/leedcode-problem/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1816-truncate-sentence](https://github.com/ashutosh-019/leedcode-problem/tree/master/1816-truncate-sentence) |
@@ -68,6 +69,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ashutosh-019/leedcode-problem/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ashutosh-019/leedcode-problem/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1472-design-browser-history](https://github.com/ashutosh-019/leedcode-problem/tree/master/1472-design-browser-history) |
 | [2390-removing-stars-from-a-string](https://github.com/ashutosh-019/leedcode-problem/tree/master/2390-removing-stars-from-a-string) |
@@ -171,4 +173,8 @@
 |  |
 | ------- |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/ashutosh-019/leedcode-problem/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ashutosh-019/leedcode-problem/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
