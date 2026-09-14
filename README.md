@@ -22,6 +22,7 @@
 | [1991-find-the-middle-index-in-array](https://github.com/ashutosh-019/leedcode-problem/tree/master/1991-find-the-middle-index-in-array) |
 | [2540-minimum-common-value](https://github.com/ashutosh-019/leedcode-problem/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/ashutosh-019/leedcode-problem/tree/master/2574-left-and-right-sum-differences) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/ashutosh-019/leedcode-problem/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3731-find-missing-elements](https://github.com/ashutosh-019/leedcode-problem/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/ashutosh-019/leedcode-problem/tree/master/3745-maximize-expression-of-three-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ashutosh-019/leedcode-problem/tree/master/3875-construct-uniform-parity-array-i) |
@@ -37,6 +38,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ashutosh-019/leedcode-problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2540-minimum-common-value](https://github.com/ashutosh-019/leedcode-problem/tree/master/2540-minimum-common-value) |
 | [2716-minimize-string-length](https://github.com/ashutosh-019/leedcode-problem/tree/master/2716-minimize-string-length) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/ashutosh-019/leedcode-problem/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3731-find-missing-elements](https://github.com/ashutosh-019/leedcode-problem/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -59,6 +61,7 @@
 | [2413-smallest-even-multiple](https://github.com/ashutosh-019/leedcode-problem/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/ashutosh-019/leedcode-problem/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/ashutosh-019/leedcode-problem/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/ashutosh-019/leedcode-problem/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3870-count-commas-in-range](https://github.com/ashutosh-019/leedcode-problem/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ashutosh-019/leedcode-problem/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
