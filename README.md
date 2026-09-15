@@ -10,6 +10,7 @@
 | [0238-product-of-array-except-self](https://github.com/ashutosh-019/leedcode-problem/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/ashutosh-019/leedcode-problem/tree/master/0349-intersection-of-two-arrays) |
 | [0724-find-pivot-index](https://github.com/ashutosh-019/leedcode-problem/tree/master/0724-find-pivot-index) |
+| [0977-squares-of-a-sorted-array](https://github.com/ashutosh-019/leedcode-problem/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ashutosh-019/leedcode-problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ashutosh-019/leedcode-problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/ashutosh-019/leedcode-problem/tree/master/1470-shuffle-the-array) |
@@ -44,6 +45,7 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/ashutosh-019/leedcode-problem/tree/master/0349-intersection-of-two-arrays) |
+| [0977-squares-of-a-sorted-array](https://github.com/ashutosh-019/leedcode-problem/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ashutosh-019/leedcode-problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ashutosh-019/leedcode-problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3731-find-missing-elements](https://github.com/ashutosh-019/leedcode-problem/tree/master/3731-find-missing-elements) |
@@ -172,6 +174,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/ashutosh-019/leedcode-problem/tree/master/0151-reverse-words-in-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/ashutosh-019/leedcode-problem/tree/master/0349-intersection-of-two-arrays) |
 | [0844-backspace-string-compare](https://github.com/ashutosh-019/leedcode-problem/tree/master/0844-backspace-string-compare) |
+| [0977-squares-of-a-sorted-array](https://github.com/ashutosh-019/leedcode-problem/tree/master/0977-squares-of-a-sorted-array) |
 | [2540-minimum-common-value](https://github.com/ashutosh-019/leedcode-problem/tree/master/2540-minimum-common-value) |
 ## Binary Search
 |  |
