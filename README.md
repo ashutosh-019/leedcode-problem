@@ -72,6 +72,7 @@
 | [0020-valid-parentheses](https://github.com/ashutosh-019/leedcode-problem/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/ashutosh-019/leedcode-problem/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/ashutosh-019/leedcode-problem/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/ashutosh-019/leedcode-problem/tree/master/0392-is-subsequence) |
 | [0771-jewels-and-stones](https://github.com/ashutosh-019/leedcode-problem/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/ashutosh-019/leedcode-problem/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ashutosh-019/leedcode-problem/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -173,6 +174,7 @@
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/ashutosh-019/leedcode-problem/tree/master/0151-reverse-words-in-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/ashutosh-019/leedcode-problem/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/ashutosh-019/leedcode-problem/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/ashutosh-019/leedcode-problem/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/ashutosh-019/leedcode-problem/tree/master/0977-squares-of-a-sorted-array) |
 | [2540-minimum-common-value](https://github.com/ashutosh-019/leedcode-problem/tree/master/2540-minimum-common-value) |
@@ -184,6 +186,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/ashutosh-019/leedcode-problem/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/ashutosh-019/leedcode-problem/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
