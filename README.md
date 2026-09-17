@@ -21,6 +21,7 @@
 | [1816-truncate-sentence](https://github.com/ashutosh-019/leedcode-problem/tree/master/1816-truncate-sentence) |
 | [1929-concatenation-of-array](https://github.com/ashutosh-019/leedcode-problem/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/ashutosh-019/leedcode-problem/tree/master/1991-find-the-middle-index-in-array) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/ashutosh-019/leedcode-problem/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2540-minimum-common-value](https://github.com/ashutosh-019/leedcode-problem/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/ashutosh-019/leedcode-problem/tree/master/2574-left-and-right-sum-differences) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/ashutosh-019/leedcode-problem/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -101,6 +102,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/ashutosh-019/leedcode-problem/tree/master/0231-power-of-two) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ashutosh-019/leedcode-problem/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/ashutosh-019/leedcode-problem/tree/master/2433-find-the-original-array-of-prefix-xor) |
 ## Counting Sort
 |  |
 | ------- |
