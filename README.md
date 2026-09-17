@@ -10,6 +10,7 @@
 | [0238-product-of-array-except-self](https://github.com/ashutosh-019/leedcode-problem/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/ashutosh-019/leedcode-problem/tree/master/0349-intersection-of-two-arrays) |
 | [0724-find-pivot-index](https://github.com/ashutosh-019/leedcode-problem/tree/master/0724-find-pivot-index) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/ashutosh-019/leedcode-problem/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ashutosh-019/leedcode-problem/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ashutosh-019/leedcode-problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ashutosh-019/leedcode-problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -37,6 +38,7 @@
 | [0001-two-sum](https://github.com/ashutosh-019/leedcode-problem/tree/master/0001-two-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/ashutosh-019/leedcode-problem/tree/master/0349-intersection-of-two-arrays) |
 | [0771-jewels-and-stones](https://github.com/ashutosh-019/leedcode-problem/tree/master/0771-jewels-and-stones) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/ashutosh-019/leedcode-problem/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ashutosh-019/leedcode-problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2540-minimum-common-value](https://github.com/ashutosh-019/leedcode-problem/tree/master/2540-minimum-common-value) |
 | [2716-minimize-string-length](https://github.com/ashutosh-019/leedcode-problem/tree/master/2716-minimize-string-length) |
@@ -206,4 +208,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ashutosh-019/leedcode-problem/tree/master/0020-valid-parentheses) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/ashutosh-019/leedcode-problem/tree/master/0961-n-repeated-element-in-size-2n-array) |
 <!---LeetCode Topics End-->
