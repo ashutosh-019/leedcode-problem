@@ -67,6 +67,7 @@
 | [2413-smallest-even-multiple](https://github.com/ashutosh-019/leedcode-problem/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/ashutosh-019/leedcode-problem/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/ashutosh-019/leedcode-problem/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/ashutosh-019/leedcode-problem/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/ashutosh-019/leedcode-problem/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3870-count-commas-in-range](https://github.com/ashutosh-019/leedcode-problem/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ashutosh-019/leedcode-problem/tree/master/3875-construct-uniform-parity-array-i) |
