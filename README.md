@@ -59,6 +59,7 @@
 | [0009-palindrome-number](https://github.com/ashutosh-019/leedcode-problem/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/ashutosh-019/leedcode-problem/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/ashutosh-019/leedcode-problem/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/ashutosh-019/leedcode-problem/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/ashutosh-019/leedcode-problem/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ashutosh-019/leedcode-problem/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ashutosh-019/leedcode-problem/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -166,6 +167,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ashutosh-019/leedcode-problem/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/ashutosh-019/leedcode-problem/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/ashutosh-019/leedcode-problem/tree/master/0509-fibonacci-number) |
 ## Prefix Sum
 |  |
