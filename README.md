@@ -25,6 +25,7 @@
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/ashutosh-019/leedcode-problem/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2540-minimum-common-value](https://github.com/ashutosh-019/leedcode-problem/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/ashutosh-019/leedcode-problem/tree/master/2574-left-and-right-sum-differences) |
+| [2706-buy-two-chocolates](https://github.com/ashutosh-019/leedcode-problem/tree/master/2706-buy-two-chocolates) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/ashutosh-019/leedcode-problem/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3731-find-missing-elements](https://github.com/ashutosh-019/leedcode-problem/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/ashutosh-019/leedcode-problem/tree/master/3745-maximize-expression-of-three-elements) |
@@ -51,6 +52,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/ashutosh-019/leedcode-problem/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ashutosh-019/leedcode-problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ashutosh-019/leedcode-problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2706-buy-two-chocolates](https://github.com/ashutosh-019/leedcode-problem/tree/master/2706-buy-two-chocolates) |
 | [3731-find-missing-elements](https://github.com/ashutosh-019/leedcode-problem/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/ashutosh-019/leedcode-problem/tree/master/3745-maximize-expression-of-three-elements) |
 ## Math
@@ -154,6 +156,7 @@
 ## Greedy
 |  |
 | ------- |
+| [2706-buy-two-chocolates](https://github.com/ashutosh-019/leedcode-problem/tree/master/2706-buy-two-chocolates) |
 | [3745-maximize-expression-of-three-elements](https://github.com/ashutosh-019/leedcode-problem/tree/master/3745-maximize-expression-of-three-elements) |
 ## Graph Theory
 |  |
