@@ -13,6 +13,7 @@
 | [0724-find-pivot-index](https://github.com/ashutosh-019/leedcode-problem/tree/master/0724-find-pivot-index) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ashutosh-019/leedcode-problem/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ashutosh-019/leedcode-problem/tree/master/0977-squares-of-a-sorted-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/ashutosh-019/leedcode-problem/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ashutosh-019/leedcode-problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ashutosh-019/leedcode-problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/ashutosh-019/leedcode-problem/tree/master/1470-shuffle-the-array) |
@@ -67,6 +68,7 @@
 | [0342-power-of-four](https://github.com/ashutosh-019/leedcode-problem/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/ashutosh-019/leedcode-problem/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ashutosh-019/leedcode-problem/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/ashutosh-019/leedcode-problem/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ashutosh-019/leedcode-problem/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1688-count-of-matches-in-tournament](https://github.com/ashutosh-019/leedcode-problem/tree/master/1688-count-of-matches-in-tournament) |
 | [1952-three-divisors](https://github.com/ashutosh-019/leedcode-problem/tree/master/1952-three-divisors) |
