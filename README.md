@@ -47,6 +47,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ashutosh-019/leedcode-problem/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ashutosh-019/leedcode-problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/ashutosh-019/leedcode-problem/tree/master/1748-sum-of-unique-elements) |
+| [2351-first-letter-to-appear-twice](https://github.com/ashutosh-019/leedcode-problem/tree/master/2351-first-letter-to-appear-twice) |
 | [2540-minimum-common-value](https://github.com/ashutosh-019/leedcode-problem/tree/master/2540-minimum-common-value) |
 | [2716-minimize-string-length](https://github.com/ashutosh-019/leedcode-problem/tree/master/2716-minimize-string-length) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/ashutosh-019/leedcode-problem/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -95,6 +96,7 @@
 | [0844-backspace-string-compare](https://github.com/ashutosh-019/leedcode-problem/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ashutosh-019/leedcode-problem/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1816-truncate-sentence](https://github.com/ashutosh-019/leedcode-problem/tree/master/1816-truncate-sentence) |
+| [2351-first-letter-to-appear-twice](https://github.com/ashutosh-019/leedcode-problem/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/ashutosh-019/leedcode-problem/tree/master/2390-removing-stars-from-a-string) |
 | [2716-minimize-string-length](https://github.com/ashutosh-019/leedcode-problem/tree/master/2716-minimize-string-length) |
 | [3498-reverse-degree-of-a-string](https://github.com/ashutosh-019/leedcode-problem/tree/master/3498-reverse-degree-of-a-string) |
@@ -120,6 +122,7 @@
 | [0231-power-of-two](https://github.com/ashutosh-019/leedcode-problem/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/ashutosh-019/leedcode-problem/tree/master/0342-power-of-four) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ashutosh-019/leedcode-problem/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2351-first-letter-to-appear-twice](https://github.com/ashutosh-019/leedcode-problem/tree/master/2351-first-letter-to-appear-twice) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/ashutosh-019/leedcode-problem/tree/master/2433-find-the-original-array-of-prefix-xor) |
 ## Counting Sort
 |  |
@@ -127,6 +130,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/ashutosh-019/leedcode-problem/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ashutosh-019/leedcode-problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/ashutosh-019/leedcode-problem/tree/master/1748-sum-of-unique-elements) |
+| [2351-first-letter-to-appear-twice](https://github.com/ashutosh-019/leedcode-problem/tree/master/2351-first-letter-to-appear-twice) |
 | [3978-unique-middle-element](https://github.com/ashutosh-019/leedcode-problem/tree/master/3978-unique-middle-element) |
 ## Linked List
 |  |
