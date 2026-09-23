@@ -21,6 +21,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/ashutosh-019/leedcode-problem/tree/master/1480-running-sum-of-1d-array) |
 | [1534-count-good-triplets](https://github.com/ashutosh-019/leedcode-problem/tree/master/1534-count-good-triplets) |
 | [1732-find-the-highest-altitude](https://github.com/ashutosh-019/leedcode-problem/tree/master/1732-find-the-highest-altitude) |
+| [1748-sum-of-unique-elements](https://github.com/ashutosh-019/leedcode-problem/tree/master/1748-sum-of-unique-elements) |
 | [1816-truncate-sentence](https://github.com/ashutosh-019/leedcode-problem/tree/master/1816-truncate-sentence) |
 | [1929-concatenation-of-array](https://github.com/ashutosh-019/leedcode-problem/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/ashutosh-019/leedcode-problem/tree/master/1991-find-the-middle-index-in-array) |
@@ -44,6 +45,7 @@
 | [0771-jewels-and-stones](https://github.com/ashutosh-019/leedcode-problem/tree/master/0771-jewels-and-stones) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ashutosh-019/leedcode-problem/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ashutosh-019/leedcode-problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1748-sum-of-unique-elements](https://github.com/ashutosh-019/leedcode-problem/tree/master/1748-sum-of-unique-elements) |
 | [2540-minimum-common-value](https://github.com/ashutosh-019/leedcode-problem/tree/master/2540-minimum-common-value) |
 | [2716-minimize-string-length](https://github.com/ashutosh-019/leedcode-problem/tree/master/2716-minimize-string-length) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/ashutosh-019/leedcode-problem/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -121,6 +123,7 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ashutosh-019/leedcode-problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1748-sum-of-unique-elements](https://github.com/ashutosh-019/leedcode-problem/tree/master/1748-sum-of-unique-elements) |
 | [3978-unique-middle-element](https://github.com/ashutosh-019/leedcode-problem/tree/master/3978-unique-middle-element) |
 ## Linked List
 |  |
