@@ -42,6 +42,7 @@
 | [0001-two-sum](https://github.com/ashutosh-019/leedcode-problem/tree/master/0001-two-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/ashutosh-019/leedcode-problem/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/ashutosh-019/leedcode-problem/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/ashutosh-019/leedcode-problem/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ashutosh-019/leedcode-problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/ashutosh-019/leedcode-problem/tree/master/0771-jewels-and-stones) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ashutosh-019/leedcode-problem/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/ashutosh-019/leedcode-problem/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/ashutosh-019/leedcode-problem/tree/master/0389-find-the-difference) |
 | [0977-squares-of-a-sorted-array](https://github.com/ashutosh-019/leedcode-problem/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ashutosh-019/leedcode-problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ashutosh-019/leedcode-problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -91,6 +93,7 @@
 | [0125-valid-palindrome](https://github.com/ashutosh-019/leedcode-problem/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ashutosh-019/leedcode-problem/tree/master/0151-reverse-words-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/ashutosh-019/leedcode-problem/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/ashutosh-019/leedcode-problem/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/ashutosh-019/leedcode-problem/tree/master/0392-is-subsequence) |
 | [0771-jewels-and-stones](https://github.com/ashutosh-019/leedcode-problem/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/ashutosh-019/leedcode-problem/tree/master/0844-backspace-string-compare) |
@@ -121,6 +124,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/ashutosh-019/leedcode-problem/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/ashutosh-019/leedcode-problem/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/ashutosh-019/leedcode-problem/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ashutosh-019/leedcode-problem/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2351-first-letter-to-appear-twice](https://github.com/ashutosh-019/leedcode-problem/tree/master/2351-first-letter-to-appear-twice) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/ashutosh-019/leedcode-problem/tree/master/2433-find-the-original-array-of-prefix-xor) |
