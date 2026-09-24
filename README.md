@@ -30,6 +30,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/ashutosh-019/leedcode-problem/tree/master/2574-left-and-right-sum-differences) |
 | [2706-buy-two-chocolates](https://github.com/ashutosh-019/leedcode-problem/tree/master/2706-buy-two-chocolates) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/ashutosh-019/leedcode-problem/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ashutosh-019/leedcode-problem/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/ashutosh-019/leedcode-problem/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/ashutosh-019/leedcode-problem/tree/master/3745-maximize-expression-of-three-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ashutosh-019/leedcode-problem/tree/master/3875-construct-uniform-parity-array-i) |
@@ -83,6 +84,7 @@
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/ashutosh-019/leedcode-problem/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/ashutosh-019/leedcode-problem/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/ashutosh-019/leedcode-problem/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ashutosh-019/leedcode-problem/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/ashutosh-019/leedcode-problem/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ashutosh-019/leedcode-problem/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
