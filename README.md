@@ -42,6 +42,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ashutosh-019/leedcode-problem/tree/master/0001-two-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/ashutosh-019/leedcode-problem/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/ashutosh-019/leedcode-problem/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ashutosh-019/leedcode-problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ashutosh-019/leedcode-problem/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ashutosh-019/leedcode-problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -95,6 +96,7 @@
 | [0125-valid-palindrome](https://github.com/ashutosh-019/leedcode-problem/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ashutosh-019/leedcode-problem/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/ashutosh-019/leedcode-problem/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/ashutosh-019/leedcode-problem/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ashutosh-019/leedcode-problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ashutosh-019/leedcode-problem/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/ashutosh-019/leedcode-problem/tree/master/0392-is-subsequence) |
@@ -134,6 +136,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/ashutosh-019/leedcode-problem/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ashutosh-019/leedcode-problem/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ashutosh-019/leedcode-problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/ashutosh-019/leedcode-problem/tree/master/1748-sum-of-unique-elements) |
