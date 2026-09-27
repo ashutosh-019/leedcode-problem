@@ -74,6 +74,7 @@
 | [0231-power-of-two](https://github.com/ashutosh-019/leedcode-problem/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ashutosh-019/leedcode-problem/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ashutosh-019/leedcode-problem/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/ashutosh-019/leedcode-problem/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/ashutosh-019/leedcode-problem/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ashutosh-019/leedcode-problem/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ashutosh-019/leedcode-problem/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -100,6 +101,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/ashutosh-019/leedcode-problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ashutosh-019/leedcode-problem/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/ashutosh-019/leedcode-problem/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/ashutosh-019/leedcode-problem/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/ashutosh-019/leedcode-problem/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/ashutosh-019/leedcode-problem/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ashutosh-019/leedcode-problem/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -119,6 +121,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/ashutosh-019/leedcode-problem/tree/master/0412-fizz-buzz) |
 | [0844-backspace-string-compare](https://github.com/ashutosh-019/leedcode-problem/tree/master/0844-backspace-string-compare) |
 | [1688-count-of-matches-in-tournament](https://github.com/ashutosh-019/leedcode-problem/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/ashutosh-019/leedcode-problem/tree/master/1929-concatenation-of-array) |
