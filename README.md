@@ -111,6 +111,7 @@
 | [2390-removing-stars-from-a-string](https://github.com/ashutosh-019/leedcode-problem/tree/master/2390-removing-stars-from-a-string) |
 | [2716-minimize-string-length](https://github.com/ashutosh-019/leedcode-problem/tree/master/2716-minimize-string-length) |
 | [3498-reverse-degree-of-a-string](https://github.com/ashutosh-019/leedcode-problem/tree/master/3498-reverse-degree-of-a-string) |
+| [3794-reverse-string-prefix](https://github.com/ashutosh-019/leedcode-problem/tree/master/3794-reverse-string-prefix) |
 ## Stack
 |  |
 | ------- |
@@ -227,6 +228,7 @@
 | [0844-backspace-string-compare](https://github.com/ashutosh-019/leedcode-problem/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/ashutosh-019/leedcode-problem/tree/master/0977-squares-of-a-sorted-array) |
 | [2540-minimum-common-value](https://github.com/ashutosh-019/leedcode-problem/tree/master/2540-minimum-common-value) |
+| [3794-reverse-string-prefix](https://github.com/ashutosh-019/leedcode-problem/tree/master/3794-reverse-string-prefix) |
 ## Binary Search
 |  |
 | ------- |
