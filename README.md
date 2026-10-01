@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/ashutosh-019/leedcode-problem/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/ashutosh-019/leedcode-problem/tree/master/0066-plus-one) |
 | [0238-product-of-array-except-self](https://github.com/ashutosh-019/leedcode-problem/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/ashutosh-019/leedcode-problem/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/ashutosh-019/leedcode-problem/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ashutosh-019/leedcode-problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0724-find-pivot-index](https://github.com/ashutosh-019/leedcode-problem/tree/master/0724-find-pivot-index) |
@@ -224,6 +225,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/ashutosh-019/leedcode-problem/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ashutosh-019/leedcode-problem/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/ashutosh-019/leedcode-problem/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ashutosh-019/leedcode-problem/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/ashutosh-019/leedcode-problem/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/ashutosh-019/leedcode-problem/tree/master/0392-is-subsequence) |
