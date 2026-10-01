@@ -21,6 +21,7 @@
 | [1472-design-browser-history](https://github.com/ashutosh-019/leedcode-problem/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/ashutosh-019/leedcode-problem/tree/master/1480-running-sum-of-1d-array) |
 | [1534-count-good-triplets](https://github.com/ashutosh-019/leedcode-problem/tree/master/1534-count-good-triplets) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ashutosh-019/leedcode-problem/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1732-find-the-highest-altitude](https://github.com/ashutosh-019/leedcode-problem/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/ashutosh-019/leedcode-problem/tree/master/1748-sum-of-unique-elements) |
 | [1816-truncate-sentence](https://github.com/ashutosh-019/leedcode-problem/tree/master/1816-truncate-sentence) |
@@ -107,6 +108,7 @@
 | [0844-backspace-string-compare](https://github.com/ashutosh-019/leedcode-problem/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ashutosh-019/leedcode-problem/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ashutosh-019/leedcode-problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ashutosh-019/leedcode-problem/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1816-truncate-sentence](https://github.com/ashutosh-019/leedcode-problem/tree/master/1816-truncate-sentence) |
 | [2000-reverse-prefix-of-word](https://github.com/ashutosh-019/leedcode-problem/tree/master/2000-reverse-prefix-of-word) |
 | [2351-first-letter-to-appear-twice](https://github.com/ashutosh-019/leedcode-problem/tree/master/2351-first-letter-to-appear-twice) |
