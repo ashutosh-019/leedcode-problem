@@ -114,6 +114,7 @@
 | [2351-first-letter-to-appear-twice](https://github.com/ashutosh-019/leedcode-problem/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/ashutosh-019/leedcode-problem/tree/master/2390-removing-stars-from-a-string) |
 | [2716-minimize-string-length](https://github.com/ashutosh-019/leedcode-problem/tree/master/2716-minimize-string-length) |
+| [3174-clear-digits](https://github.com/ashutosh-019/leedcode-problem/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/ashutosh-019/leedcode-problem/tree/master/3498-reverse-degree-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/ashutosh-019/leedcode-problem/tree/master/3794-reverse-string-prefix) |
 ## Stack
@@ -126,6 +127,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ashutosh-019/leedcode-problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/ashutosh-019/leedcode-problem/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/ashutosh-019/leedcode-problem/tree/master/2390-removing-stars-from-a-string) |
+| [3174-clear-digits](https://github.com/ashutosh-019/leedcode-problem/tree/master/3174-clear-digits) |
 ## Simulation
 |  |
 | ------- |
@@ -134,6 +136,7 @@
 | [1688-count-of-matches-in-tournament](https://github.com/ashutosh-019/leedcode-problem/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/ashutosh-019/leedcode-problem/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/ashutosh-019/leedcode-problem/tree/master/2390-removing-stars-from-a-string) |
+| [3174-clear-digits](https://github.com/ashutosh-019/leedcode-problem/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/ashutosh-019/leedcode-problem/tree/master/3498-reverse-degree-of-a-string) |
 ## Bit Manipulation
 |  |
