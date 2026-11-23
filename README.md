@@ -111,6 +111,7 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ashutosh-019/leedcode-problem/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1816-truncate-sentence](https://github.com/ashutosh-019/leedcode-problem/tree/master/1816-truncate-sentence) |
 | [2000-reverse-prefix-of-word](https://github.com/ashutosh-019/leedcode-problem/tree/master/2000-reverse-prefix-of-word) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/ashutosh-019/leedcode-problem/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2351-first-letter-to-appear-twice](https://github.com/ashutosh-019/leedcode-problem/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/ashutosh-019/leedcode-problem/tree/master/2390-removing-stars-from-a-string) |
 | [2716-minimize-string-length](https://github.com/ashutosh-019/leedcode-problem/tree/master/2716-minimize-string-length) |
